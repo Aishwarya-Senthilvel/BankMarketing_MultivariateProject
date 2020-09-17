@@ -1,4 +1,4 @@
-# BankMarketing_MultivariateProject
+# BankMarketing_Multivariate_Analysis_Project
 PROBLEM STATEMENT : Direct marketing campaign data of a Portuguese banking institution is being analysed to predict if a client will subscribe.
 
 DATA DICTIONARY :
