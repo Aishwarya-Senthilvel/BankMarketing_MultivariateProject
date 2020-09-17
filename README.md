@@ -1,5 +1,6 @@
 # BankMarketing_MultivariateProject
-Direct marketing campaign data of a Portuguese banking institution is being analysed to predict if a client will subscribe.
+PROBLEM STATEMENT : Direct marketing campaign data of a Portuguese banking institution is being analysed to predict if a client will subscribe.
+
 | TABLE           | COLUMN         | DATA TYPE   | REQUIRED | SENSITIVE | VALUES           | DESCRIPTION                                                                                |
 |-----------------|----------------|-------------|----------|-----------|------------------|--------------------------------------------------------------------------------------------|
 | Bank            | Age            | Numeric     |          |           |                  |                                                                                            |
