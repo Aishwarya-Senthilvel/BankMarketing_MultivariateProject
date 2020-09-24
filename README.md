@@ -69,3 +69,15 @@ DATA DICTIONARY :
 | Bank Additional | Cons_conf_idx  |             |          |           |                  | Consumer confidence index - monthly indicator                                              |
 | Bank Additional | euribor3m      |             |          |           |                  | Euribor 3 month rate - daily indicator                                                     |
 | Bank Additional | Nr_employed    |             |          |           |                  | Number of employees - quarterly indicator                                                  |
+
+
+KEY PERFORMANCE INDICATORS:
+
+| KEY RESULT AREA   | KEY PERFORMANCE INDICATORS | DESCRIPTION                                                                                                                |
+|-------------------|----------------------------|----------------------------------------------------------------------------------------------------------------------------|
+| Lead Sources      | Job                        | Determines capability of the lead to predict future revenue through the specific lead                                      |
+| Origination Value | Loan                       | Total Revenue earned for each loan over a given time                                                                       |
+| Lead              | Campaign                   | Number of customers acquired by marketing influence                                                                        |
+| Lead Conversion   | Poutcome                   | Finding the right customers, keeping them engaged and converting them into leads of the institution                        |
+| Revenue           | Cons_price_idx             | Measure of the average change over time in prices paid by urban consumers for market basket of consumer goods and services |
+| Overall Economy   | Cons_conf_idx              | Consumer Confidence Index is a good indicator od developments in the future reflecting current business conditions         |
